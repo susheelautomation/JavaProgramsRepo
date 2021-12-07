@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="33" passed="33">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TN Test automtion regression suite" duration-ms="102108" started-at="2020-12-08T03:37:55Z" finished-at="2020-12-08T03:39:38Z">
+    <groups>
+    </groups>
+    <test name="LoginPage Test_FF_57" duration-ms="37370" started-at="2020-12-08T03:37:55Z" finished-at="2020-12-08T03:38:33Z">
+      <class name="com.qa.hubspot.tests.LoginPageTest">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@301d8120]" name="setUp" is-config="true" duration-ms="20118" started-at="2020-12-08T03:37:55Z" finished-at="2020-12-08T03:38:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[57]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginPageTitleTest()[pri:1, instance:com.qa.hubspot.tests.LoginPageTest@301d8120]" name="verifyLoginPageTitleTest" duration-ms="439" started-at="2020-12-08T03:38:16Z" finished-at="2020-12-08T03:38:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitleTest -->
+        <test-method status="PASS" signature="verifyForgotPwdLinkTest()[pri:2, instance:com.qa.hubspot.tests.LoginPageTest@301d8120]" name="verifyForgotPwdLinkTest" duration-ms="2115" started-at="2020-12-08T03:38:16Z" finished-at="2020-12-08T03:38:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgotPwdLinkTest -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.qa.hubspot.tests.LoginPageTest@301d8120]" name="loginTest" duration-ms="13451" started-at="2020-12-08T03:38:18Z" finished-at="2020-12-08T03:38:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@301d8120]" name="tearDown" is-config="true" duration-ms="872" started-at="2020-12-08T03:38:32Z" finished-at="2020-12-08T03:38:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hubspot.tests.LoginPageTest -->
+    </test> <!-- LoginPage Test_FF_57 -->
+    <test name="LoginPage Test_FF_83" duration-ms="42638" started-at="2020-12-08T03:37:55Z" finished-at="2020-12-08T03:38:38Z">
+      <class name="com.qa.hubspot.tests.LoginPageTest">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@6569dded]" name="setUp" is-config="true" duration-ms="23057" started-at="2020-12-08T03:37:55Z" finished-at="2020-12-08T03:38:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[83]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginPageTitleTest()[pri:1, instance:com.qa.hubspot.tests.LoginPageTest@6569dded]" name="verifyLoginPageTitleTest" duration-ms="265" started-at="2020-12-08T03:38:18Z" finished-at="2020-12-08T03:38:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitleTest -->
+        <test-method status="PASS" signature="verifyForgotPwdLinkTest()[pri:2, instance:com.qa.hubspot.tests.LoginPageTest@6569dded]" name="verifyForgotPwdLinkTest" duration-ms="2967" started-at="2020-12-08T03:38:19Z" finished-at="2020-12-08T03:38:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgotPwdLinkTest -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.qa.hubspot.tests.LoginPageTest@6569dded]" name="loginTest" duration-ms="13041" started-at="2020-12-08T03:38:22Z" finished-at="2020-12-08T03:38:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@6569dded]" name="tearDown" is-config="true" duration-ms="3282" started-at="2020-12-08T03:38:35Z" finished-at="2020-12-08T03:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hubspot.tests.LoginPageTest -->
+    </test> <!-- LoginPage Test_FF_83 -->
+    <test name="LoginPage Test_FF_80" duration-ms="44974" started-at="2020-12-08T03:37:55Z" finished-at="2020-12-08T03:38:40Z">
+      <class name="com.qa.hubspot.tests.LoginPageTest">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@516ebdf8]" name="setUp" is-config="true" duration-ms="24307" started-at="2020-12-08T03:37:55Z" finished-at="2020-12-08T03:38:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[80]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginPageTitleTest()[pri:1, instance:com.qa.hubspot.tests.LoginPageTest@516ebdf8]" name="verifyLoginPageTitleTest" duration-ms="258" started-at="2020-12-08T03:38:20Z" finished-at="2020-12-08T03:38:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitleTest -->
+        <test-method status="PASS" signature="verifyForgotPwdLinkTest()[pri:2, instance:com.qa.hubspot.tests.LoginPageTest@516ebdf8]" name="verifyForgotPwdLinkTest" duration-ms="2923" started-at="2020-12-08T03:38:20Z" finished-at="2020-12-08T03:38:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgotPwdLinkTest -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.qa.hubspot.tests.LoginPageTest@516ebdf8]" name="loginTest" duration-ms="13990" started-at="2020-12-08T03:38:23Z" finished-at="2020-12-08T03:38:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@516ebdf8]" name="tearDown" is-config="true" duration-ms="3470" started-at="2020-12-08T03:38:37Z" finished-at="2020-12-08T03:38:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hubspot.tests.LoginPageTest -->
+    </test> <!-- LoginPage Test_FF_80 -->
+    <test name="AccountsPage Test_FF_57" duration-ms="47073" started-at="2020-12-08T03:37:55Z" finished-at="2020-12-08T03:38:42Z">
+      <class name="com.qa.hubspot.tests.AccountsPageTest">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.qa.hubspot.tests.AccountsPageTest@5cbb84b1]" name="setUp" is-config="true" duration-ms="20119" started-at="2020-12-08T03:37:55Z" finished-at="2020-12-08T03:38:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[57]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="AccountsPageSetUp()[pri:0, instance:com.qa.hubspot.tests.AccountsPageTest@5cbb84b1]" name="AccountsPageSetUp" is-config="true" duration-ms="14674" started-at="2020-12-08T03:38:16Z" finished-at="2020-12-08T03:38:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccountsPageSetUp -->
+        <test-method status="PASS" signature="verifyAccountsPageHeaderTest()[pri:1, instance:com.qa.hubspot.tests.AccountsPageTest@5cbb84b1]" name="verifyAccountsPageHeaderTest" duration-ms="3914" started-at="2020-12-08T03:38:30Z" finished-at="2020-12-08T03:38:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAccountsPageHeaderTest -->
+        <test-method status="PASS" signature="accountsPageTitleTest()[pri:2, instance:com.qa.hubspot.tests.AccountsPageTest@5cbb84b1]" name="accountsPageTitleTest" duration-ms="31" started-at="2020-12-08T03:38:34Z" finished-at="2020-12-08T03:38:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountsPageTitleTest -->
+        <test-method status="PASS" signature="verifyMyAccountSectionsCountTest()[pri:3, instance:com.qa.hubspot.tests.AccountsPageTest@5cbb84b1]" name="verifyMyAccountSectionsCountTest" duration-ms="47" started-at="2020-12-08T03:38:34Z" finished-at="2020-12-08T03:38:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyAccountSectionsCountTest -->
+        <test-method status="PASS" signature="verifyMyAccountSectionsListTest()[pri:4, instance:com.qa.hubspot.tests.AccountsPageTest@5cbb84b1]" name="verifyMyAccountSectionsListTest" duration-ms="303" started-at="2020-12-08T03:38:34Z" finished-at="2020-12-08T03:38:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyAccountSectionsListTest -->
+        <test-method status="PASS" signature="searchTest()[pri:5, instance:com.qa.hubspot.tests.AccountsPageTest@5cbb84b1]" name="searchTest" duration-ms="7252" started-at="2020-12-08T03:38:35Z" finished-at="2020-12-08T03:38:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.AccountsPageTest@5cbb84b1]" name="tearDown" is-config="true" duration-ms="663" started-at="2020-12-08T03:38:42Z" finished-at="2020-12-08T03:38:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hubspot.tests.AccountsPageTest -->
+    </test> <!-- AccountsPage Test_FF_57 -->
+    <test name="AccountsPage Test_FF_80" duration-ms="52781" started-at="2020-12-08T03:37:55Z" finished-at="2020-12-08T03:38:48Z">
+      <class name="com.qa.hubspot.tests.AccountsPageTest">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.qa.hubspot.tests.AccountsPageTest@6579c3d9]" name="setUp" is-config="true" duration-ms="23484" started-at="2020-12-08T03:37:55Z" finished-at="2020-12-08T03:38:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[80]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="AccountsPageSetUp()[pri:0, instance:com.qa.hubspot.tests.AccountsPageTest@6579c3d9]" name="AccountsPageSetUp" is-config="true" duration-ms="14538" started-at="2020-12-08T03:38:19Z" finished-at="2020-12-08T03:38:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccountsPageSetUp -->
+        <test-method status="PASS" signature="verifyAccountsPageHeaderTest()[pri:1, instance:com.qa.hubspot.tests.AccountsPageTest@6579c3d9]" name="verifyAccountsPageHeaderTest" duration-ms="4237" started-at="2020-12-08T03:38:33Z" finished-at="2020-12-08T03:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAccountsPageHeaderTest -->
+        <test-method status="PASS" signature="accountsPageTitleTest()[pri:2, instance:com.qa.hubspot.tests.AccountsPageTest@6579c3d9]" name="accountsPageTitleTest" duration-ms="28" started-at="2020-12-08T03:38:38Z" finished-at="2020-12-08T03:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountsPageTitleTest -->
+        <test-method status="PASS" signature="verifyMyAccountSectionsCountTest()[pri:3, instance:com.qa.hubspot.tests.AccountsPageTest@6579c3d9]" name="verifyMyAccountSectionsCountTest" duration-ms="36" started-at="2020-12-08T03:38:38Z" finished-at="2020-12-08T03:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyAccountSectionsCountTest -->
+        <test-method status="PASS" signature="verifyMyAccountSectionsListTest()[pri:4, instance:com.qa.hubspot.tests.AccountsPageTest@6579c3d9]" name="verifyMyAccountSectionsListTest" duration-ms="474" started-at="2020-12-08T03:38:38Z" finished-at="2020-12-08T03:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyAccountSectionsListTest -->
+        <test-method status="PASS" signature="searchTest()[pri:5, instance:com.qa.hubspot.tests.AccountsPageTest@6579c3d9]" name="searchTest" duration-ms="7066" started-at="2020-12-08T03:38:38Z" finished-at="2020-12-08T03:38:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.AccountsPageTest@6579c3d9]" name="tearDown" is-config="true" duration-ms="2890" started-at="2020-12-08T03:38:45Z" finished-at="2020-12-08T03:38:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hubspot.tests.AccountsPageTest -->
+    </test> <!-- AccountsPage Test_FF_80 -->
+    <test name="AccountsPage Test_FF_83" duration-ms="52926" started-at="2020-12-08T03:37:55Z" finished-at="2020-12-08T03:38:48Z">
+      <class name="com.qa.hubspot.tests.AccountsPageTest">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.qa.hubspot.tests.AccountsPageTest@5432050b]" name="setUp" is-config="true" duration-ms="24022" started-at="2020-12-08T03:37:55Z" finished-at="2020-12-08T03:38:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[83]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="AccountsPageSetUp()[pri:0, instance:com.qa.hubspot.tests.AccountsPageTest@5432050b]" name="AccountsPageSetUp" is-config="true" duration-ms="14555" started-at="2020-12-08T03:38:19Z" finished-at="2020-12-08T03:38:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccountsPageSetUp -->
+        <test-method status="PASS" signature="verifyAccountsPageHeaderTest()[pri:1, instance:com.qa.hubspot.tests.AccountsPageTest@5432050b]" name="verifyAccountsPageHeaderTest" duration-ms="3864" started-at="2020-12-08T03:38:34Z" finished-at="2020-12-08T03:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAccountsPageHeaderTest -->
+        <test-method status="PASS" signature="accountsPageTitleTest()[pri:2, instance:com.qa.hubspot.tests.AccountsPageTest@5432050b]" name="accountsPageTitleTest" duration-ms="35" started-at="2020-12-08T03:38:38Z" finished-at="2020-12-08T03:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountsPageTitleTest -->
+        <test-method status="PASS" signature="verifyMyAccountSectionsCountTest()[pri:3, instance:com.qa.hubspot.tests.AccountsPageTest@5432050b]" name="verifyMyAccountSectionsCountTest" duration-ms="62" started-at="2020-12-08T03:38:38Z" finished-at="2020-12-08T03:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyAccountSectionsCountTest -->
+        <test-method status="PASS" signature="verifyMyAccountSectionsListTest()[pri:4, instance:com.qa.hubspot.tests.AccountsPageTest@5432050b]" name="verifyMyAccountSectionsListTest" duration-ms="383" started-at="2020-12-08T03:38:38Z" finished-at="2020-12-08T03:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyAccountSectionsListTest -->
+        <test-method status="PASS" signature="searchTest()[pri:5, instance:com.qa.hubspot.tests.AccountsPageTest@5432050b]" name="searchTest" duration-ms="6762" started-at="2020-12-08T03:38:38Z" finished-at="2020-12-08T03:38:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.AccountsPageTest@5432050b]" name="tearDown" is-config="true" duration-ms="3219" started-at="2020-12-08T03:38:45Z" finished-at="2020-12-08T03:38:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hubspot.tests.AccountsPageTest -->
+    </test> <!-- AccountsPage Test_FF_83 -->
+    <test name="ProductInfoPage Test_FF_57" duration-ms="55115" started-at="2020-12-08T03:38:42Z" finished-at="2020-12-08T03:39:37Z">
+      <class name="com.qa.hubspot.tests.ProductInfoTest">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.qa.hubspot.tests.ProductInfoTest@1eea9d2d]" name="setUp" is-config="true" duration-ms="15433" started-at="2020-12-08T03:38:42Z" finished-at="2020-12-08T03:38:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[57]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="productInfoSetUp()[pri:0, instance:com.qa.hubspot.tests.ProductInfoTest@1eea9d2d]" name="productInfoSetUp" is-config="true" duration-ms="10039" started-at="2020-12-08T03:38:57Z" finished-at="2020-12-08T03:39:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productInfoSetUp -->
+        <test-method status="PASS" signature="ProductInforPageTitleTest_iMac()[pri:0, instance:com.qa.hubspot.tests.ProductInfoTest@1eea9d2d]" name="ProductInforPageTitleTest_iMac" duration-ms="9442" started-at="2020-12-08T03:39:07Z" finished-at="2020-12-08T03:39:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductInforPageTitleTest_iMac -->
+        <test-method status="PASS" signature="verifyProductInfoTest_MacBook()[pri:0, instance:com.qa.hubspot.tests.ProductInfoTest@1eea9d2d]" name="verifyProductInfoTest_MacBook" duration-ms="9795" started-at="2020-12-08T03:39:17Z" finished-at="2020-12-08T03:39:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductInfoTest_MacBook -->
+        <test-method status="PASS" signature="verifyProductInfoTest_iMac()[pri:0, instance:com.qa.hubspot.tests.ProductInfoTest@1eea9d2d]" name="verifyProductInfoTest_iMac" duration-ms="10036" started-at="2020-12-08T03:39:26Z" finished-at="2020-12-08T03:39:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductInfoTest_iMac -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.ProductInfoTest@1eea9d2d]" name="tearDown" is-config="true" duration-ms="364" started-at="2020-12-08T03:39:36Z" finished-at="2020-12-08T03:39:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hubspot.tests.ProductInfoTest -->
+    </test> <!-- ProductInfoPage Test_FF_57 -->
+    <test name="ProductInfoPage Test_FF_83" duration-ms="58108" started-at="2020-12-08T03:38:39Z" finished-at="2020-12-08T03:39:37Z">
+      <class name="com.qa.hubspot.tests.ProductInfoTest">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.qa.hubspot.tests.ProductInfoTest@1b9c1b51]" name="setUp" is-config="true" duration-ms="15238" started-at="2020-12-08T03:38:39Z" finished-at="2020-12-08T03:38:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[83]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="productInfoSetUp()[pri:0, instance:com.qa.hubspot.tests.ProductInfoTest@1b9c1b51]" name="productInfoSetUp" is-config="true" duration-ms="11383" started-at="2020-12-08T03:38:54Z" finished-at="2020-12-08T03:39:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productInfoSetUp -->
+        <test-method status="PASS" signature="ProductInforPageTitleTest_iMac()[pri:0, instance:com.qa.hubspot.tests.ProductInfoTest@1b9c1b51]" name="ProductInforPageTitleTest_iMac" duration-ms="9669" started-at="2020-12-08T03:39:06Z" finished-at="2020-12-08T03:39:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductInforPageTitleTest_iMac -->
+        <test-method status="PASS" signature="verifyProductInfoTest_MacBook()[pri:0, instance:com.qa.hubspot.tests.ProductInfoTest@1b9c1b51]" name="verifyProductInfoTest_MacBook" duration-ms="10453" started-at="2020-12-08T03:39:15Z" finished-at="2020-12-08T03:39:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductInfoTest_MacBook -->
+        <test-method status="PASS" signature="verifyProductInfoTest_iMac()[pri:0, instance:com.qa.hubspot.tests.ProductInfoTest@1b9c1b51]" name="verifyProductInfoTest_iMac" duration-ms="9933" started-at="2020-12-08T03:39:26Z" finished-at="2020-12-08T03:39:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductInfoTest_iMac -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.ProductInfoTest@1b9c1b51]" name="tearDown" is-config="true" duration-ms="1425" started-at="2020-12-08T03:39:36Z" finished-at="2020-12-08T03:39:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hubspot.tests.ProductInfoTest -->
+    </test> <!-- ProductInfoPage Test_FF_83 -->
+    <test name="ProductInfoPage Test_FF_80" duration-ms="61982" started-at="2020-12-08T03:38:36Z" finished-at="2020-12-08T03:39:38Z">
+      <class name="com.qa.hubspot.tests.ProductInfoTest">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.qa.hubspot.tests.ProductInfoTest@68e62ca4]" name="setUp" is-config="true" duration-ms="17854" started-at="2020-12-08T03:38:36Z" finished-at="2020-12-08T03:38:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[80]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="productInfoSetUp()[pri:0, instance:com.qa.hubspot.tests.ProductInfoTest@68e62ca4]" name="productInfoSetUp" is-config="true" duration-ms="11797" started-at="2020-12-08T03:38:53Z" finished-at="2020-12-08T03:39:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productInfoSetUp -->
+        <test-method status="PASS" signature="ProductInforPageTitleTest_iMac()[pri:0, instance:com.qa.hubspot.tests.ProductInfoTest@68e62ca4]" name="ProductInforPageTitleTest_iMac" duration-ms="10473" started-at="2020-12-08T03:39:05Z" finished-at="2020-12-08T03:39:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductInforPageTitleTest_iMac -->
+        <test-method status="PASS" signature="verifyProductInfoTest_MacBook()[pri:0, instance:com.qa.hubspot.tests.ProductInfoTest@68e62ca4]" name="verifyProductInfoTest_MacBook" duration-ms="10289" started-at="2020-12-08T03:39:16Z" finished-at="2020-12-08T03:39:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductInfoTest_MacBook -->
+        <test-method status="PASS" signature="verifyProductInfoTest_iMac()[pri:0, instance:com.qa.hubspot.tests.ProductInfoTest@68e62ca4]" name="verifyProductInfoTest_iMac" duration-ms="10135" started-at="2020-12-08T03:39:26Z" finished-at="2020-12-08T03:39:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductInfoTest_iMac -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.ProductInfoTest@68e62ca4]" name="tearDown" is-config="true" duration-ms="1427" started-at="2020-12-08T03:39:36Z" finished-at="2020-12-08T03:39:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hubspot.tests.ProductInfoTest -->
+    </test> <!-- ProductInfoPage Test_FF_80 -->
+  </suite> <!-- TN Test automtion regression suite -->
+</testng-results>

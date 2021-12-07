@@ -1,0 +1,16 @@
+/Users/naveenautomationlabs/Documents/workspace/Sept2020POMSeries/src/main/java/com/qa/hubspot/base/BasePage.java
+/Users/naveenautomationlabs/Documents/workspace/Sept2020POMSeries/src/main/java/com/qa/hubspot/pages/AccountsPage.java
+/Users/naveenautomationlabs/Documents/workspace/Sept2020POMSeries/src/main/java/com/qa/hubspot/testlisteners/ExtentReportListener.java
+/Users/naveenautomationlabs/Documents/workspace/Sept2020POMSeries/src/main/java/com/qa/hubspot/pages/LoginPage.java
+/Users/naveenautomationlabs/Documents/workspace/Sept2020POMSeries/src/main/java/com/qa/hubspot/pages/SignUpPage.java
+/Users/naveenautomationlabs/Documents/workspace/Sept2020POMSeries/src/main/java/com/qa/hubspot/testlisteners/TestAllureListener.java
+/Users/naveenautomationlabs/Documents/workspace/Sept2020POMSeries/src/main/java/com/qa/hubspot/pages/RegisterPage.java
+/Users/naveenautomationlabs/Documents/workspace/Sept2020POMSeries/src/main/java/com/qa/hubspot/base/BaseTest.java
+/Users/naveenautomationlabs/Documents/workspace/Sept2020POMSeries/src/main/java/com/qa/hubspot/pages/ProductInfoPage.java
+/Users/naveenautomationlabs/Documents/workspace/Sept2020POMSeries/src/main/java/com/qa/hubspot/utils/ElementUtil.java
+/Users/naveenautomationlabs/Documents/workspace/Sept2020POMSeries/src/main/java/com/qa/hubspot/utils/Constants.java
+/Users/naveenautomationlabs/Documents/workspace/Sept2020POMSeries/src/main/java/com/qa/hubspot/pages/ContactsPage.java
+/Users/naveenautomationlabs/Documents/workspace/Sept2020POMSeries/src/main/java/com/qa/hubspot/utils/JavaScriptUtil.java
+/Users/naveenautomationlabs/Documents/workspace/Sept2020POMSeries/src/main/java/com/qa/hubspot/utils/OptionsManager.java
+/Users/naveenautomationlabs/Documents/workspace/Sept2020POMSeries/src/main/java/com/qa/hubspot/utils/ExcelUtil.java
+/Users/naveenautomationlabs/Documents/workspace/Sept2020POMSeries/src/main/java/com/qa/hubspot/testlisteners/TesultsListener.java
