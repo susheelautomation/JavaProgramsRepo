@@ -107,6 +107,7 @@ public class BasePage {
 			cap.setCapability(FirefoxOptions.FIREFOX_OPTIONS, optionsManager.getFirefoxOptions());
 			cap.setCapability("browserVersion", browserVersion);
 			cap.setCapability("enableVNC", true);
+//			System.out.println("Test comment for git");
 
 			try {
 				tlDriver.set(new RemoteWebDriver(new URL(prop.getProperty("huburl")), cap));
