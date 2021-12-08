@@ -24,7 +24,7 @@ public class LoginPageTest extends BaseTest {
 	public void verifyLoginPageTitleTest() {
 		String title = loginPage.getLoginPageTitle();
 		System.out.println("login page title is : " + title);
-		System.out.println("Testing local branching process");
+//		System.out.println("Testing local branching process");
 		Assert.assertEquals(title, Constants.LOGIN_PAGE_TITLE);
 	}
 	
